@@ -4,7 +4,7 @@ menu = """
 [e] -> Extrato
 [q] -> Sair
 """
-
+ 
 limite_saque = 500
 numero_saque = 0
 saldo = 0
